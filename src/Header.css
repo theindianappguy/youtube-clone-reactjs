@@ -1,0 +1,40 @@
+.header {
+  display: flex;
+  background-color: #252525;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 25px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header__logo {
+  height: 65px;
+  object-fit: contain;
+  margin-left: 10px;
+}
+
+.header__right {
+  display: flex;
+  align-items: center;
+}
+
+.header__left {
+  display: flex;
+  align-items: center;
+}
+
+.header__input {
+  display: flex;
+  align-items: center;
+  width: "40vw";
+}
+.header__input :focus {
+  outline: none;
+}
+
+.header__inputButton {
+  width: 50px !important;
+  background-color: #363636;
+}
