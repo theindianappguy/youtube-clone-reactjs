@@ -1,4 +1,4 @@
-# Youtube Clone (home page) with ReactJs
+# Youtube Clone with ReactJs
 
 This is my 3rd project with ReactJs super exited and enjoying if you like it just start the project thanks
 
